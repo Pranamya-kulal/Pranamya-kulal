@@ -16,10 +16,8 @@
 ## 📊 GitHub Stats
 
 ![Pranamya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranamya-kulal&show_icons=true&theme=radical)
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Pranamya-kulal&theme=dark" alt="GitHub Streak" />
-</p>
 
+![GitHub Contribution Graph](https://github.com/Pranamya-kulal/Pranamya-kulal/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranamya-kulal&layout=compact&theme=dark)
