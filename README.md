@@ -17,7 +17,7 @@
 
 ![Pranamya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranamya-kulal&show_icons=true&theme=radical)
 
-![GitHub streak stats](https://streak-stats.demolab.com?user=Pranamya-kulal&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pranamya-kulal&theme=dark)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranamya-kulal&layout=compact&theme=dark)
