@@ -17,7 +17,8 @@
 
 ![Pranamya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranamya-kulal&show_icons=true&theme=radical)
 
-![GitHub Contribution Graph](https://github.com/Pranamya-kulal/Pranamya-kulal/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Pranamya-kulal/Pranamya-kulal/output/github-contribution-grid-snake.svg)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranamya-kulal&layout=compact&theme=dark)
